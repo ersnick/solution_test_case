@@ -19,7 +19,7 @@
 
 ```bash
 git clone <repo_url>
-cd project
+cd solution_test_case
 ```
 
 2. Создайте и активируйте виртуальное окружение:
