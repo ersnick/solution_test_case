@@ -109,6 +109,7 @@ project/
 │── main.py               # Точка входа
 │── requirements.txt      # Зависимости
 │── app/
+│   ├── logger.py
 │   ├── database.py       # Подключение к БД
 │   ├── models/           # Модели (SQLAlchemy + Pydantic)
 │   │   ├── schemas.py
